@@ -5,10 +5,10 @@ TP Web Avancé
 MySQL 5.1 database added.  Please make note of these credentials:
 
        Root User: adminr8CyT4M
-   Root Password: ejPw_nFGbf92
-   Database Name: region
+       Root Password: ejPw_nFGbf92
+       Database Name: region
 
-Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
+       Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
 
 You can manage your new MySQL database by also embedding phpmyadmin.
 The phpmyadmin username and password will be the same as the MySQL credentials above.
